@@ -27,8 +27,7 @@ class Student {
     }
 }
 ---
-# Example 02
-```java
+Example 02
 class Car {
     String brand;
     String color;
