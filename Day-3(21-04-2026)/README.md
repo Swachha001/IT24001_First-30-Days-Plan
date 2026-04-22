@@ -26,8 +26,10 @@ class Student {
         s2.display();
     }
 }
----
-Example 02
+
+## Example 02
+
+```java
 class Car {
     String brand;
     String color;
@@ -61,3 +63,4 @@ class Car {
         c3.display();
     }
 }
+```
