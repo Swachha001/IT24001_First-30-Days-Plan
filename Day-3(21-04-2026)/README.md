@@ -1,5 +1,5 @@
-
-Example 01
+# Example 01
+```java
 class Student {
     String name;
     int age;
