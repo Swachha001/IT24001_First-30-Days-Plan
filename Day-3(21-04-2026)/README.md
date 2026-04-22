@@ -26,6 +26,7 @@ class Student {
         s2.display();
     }
 }
+---
 # Example 02
 ```java
 class Car {
