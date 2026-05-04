@@ -1,5 +1,5 @@
 # Example-1
-``` java
+```java
 class Vehicle {
     void move() {
         System.out.println("Vehicle moves");
@@ -18,8 +18,9 @@ public class Main1 {
         v.move();               // calls Car's method
     }
 }
+```
 # Example-2
-``` java
+```java
 class Animal {
     void sound() {
         System.out.println("Animal makes a sound");
